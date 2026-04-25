@@ -78,3 +78,7 @@ $theme-colors: map-merge(
 .card:hover .card-overlay {
     opacity: 1;
 }
+
+.card-overlay h3 {
+    color: #ffffff;
+}
