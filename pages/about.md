@@ -10,13 +10,10 @@ credits: true
 
 {% include feature/jumbotron.html objectid="" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the author" %}
 
 ## About the Collection
 
 Sining Arkitektura is a curated digital archive dedicated to the works of the Philippines’ National Artists in Architecture. It serves as a platform where architecture is not only presented as built form, but as a cultural narrative shaped by history, identity, and place.
 
 Featuring the works of visionaries such as Pablo S. Antonio, Francisco Mañosa, Leandro V. Locsin, and Juan Nakpil. The site explores how each architect translated Filipino values into space, material, and form. From modernist clarity to vernacular expression, these works collectively define the evolving language of Philippine architecture.
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-
