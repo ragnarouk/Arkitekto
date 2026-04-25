@@ -32,53 +32,78 @@ $theme-colors: map-merge(
 
 @import "base", "pages", "custom";
 
-/* FEATURED ARCHITECTS GRID */
-.featured-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
+/* =========================
+   FEATURED ARCHITECTS PAGE
+   ========================= */
+
+.featured-page {
     padding: 20px;
 }
 
-/* CARD STYLE */
-.card {
+/* GRID LAYOUT */
+.featured-page .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+/* CARD */
+.featured-page .card {
     position: relative;
     overflow: hidden;
     border-radius: 12px;
     cursor: pointer;
+    height: 350px;
 }
 
 /* IMAGE */
-.card img {
+.featured-page .card img {
     width: 100%;
-    height: 350px;
+    height: 100%;
     object-fit: cover;
-    transition: transform 0.4s ease;
+    transition: transform 0.5s ease;
 }
 
 /* HOVER ZOOM */
-.card:hover img {
+.featured-page .card:hover img {
     transform: scale(1.1);
 }
 
 /* OVERLAY */
-.card-overlay {
+.featured-page .card-overlay {
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
     padding: 20px;
-    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-    color: white;
+
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.75),
+        transparent
+    );
+
+    color: #ffffff;
     opacity: 0;
     transition: opacity 0.3s ease;
 }
 
-/* SHOW TEXT ON HOVER */
-.card:hover .card-overlay {
+/* SHOW OVERLAY ON HOVER */
+.featured-page .card:hover .card-overlay {
     opacity: 1;
 }
 
-.card-overlay h3 {
+/* TEXT STYLING */
+.featured-page .card-overlay h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
     color: #ffffff;
+}
+
+.featured-page .card-overlay p {
+    margin: 5px 0 0;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.85);
 }
