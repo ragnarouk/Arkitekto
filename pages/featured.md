@@ -11,7 +11,7 @@ This section highlights the works of notable Filipino National Artists in Archit
 <div class="featured-grid">
 
   <div class="card">
-    <img src="objects/nakpil.jpg" alt="Juan Nakpil">
+    <img src="/objects/nakpil.jpg" alt="Juan Nakpil">
     <div class="card-overlay">
       <h3>Juan Nakpil</h3>
       <p>National Artist for Architecture</p>
@@ -19,7 +19,7 @@ This section highlights the works of notable Filipino National Artists in Archit
   </div>
 
   <div class="card">
-    <img src="objects/locsin.jpg" alt="Leandro Locsin">
+    <img src="/objects/locsin.jpg" alt="Leandro Locsin">
     <div class="card-overlay">
       <h3>Leandro Locsin</h3>
       <p>Master of Concrete Expression</p>
@@ -27,7 +27,7 @@ This section highlights the works of notable Filipino National Artists in Archit
   </div>
 
   <div class="card">
-    <img src="objects/manosa.jpg" alt="Francisco Mañosa">
+    <img src="/objects/manosa.jpg" alt="Francisco Mañosa">
     <div class="card-overlay">
       <h3>Francisco Mañosa</h3>
       <p>Father of Filipino Neo-Vernacular</p>
@@ -35,7 +35,7 @@ This section highlights the works of notable Filipino National Artists in Archit
   </div>
 
   <div class="card">
-    <img src="objects/antonio.jpg" alt="Pablo Antonio">
+    <img src="/objects/antonio.jpg" alt="Pablo Antonio">
     <div class="card-overlay">
       <h3>Pablo Antonio</h3>
       <p>Pioneer of Modern Architecture in the Philippines</p>
