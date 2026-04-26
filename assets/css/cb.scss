@@ -116,8 +116,8 @@ $theme-colors: map-merge(
     text-shadow: 0 4px 15px rgba(0,0,0,0.6);
 }
 
-/* ABOUT PAGE HERO TITLE (JUMBOTRON) */
-.jumbotron h1.display-4 {
+/* FORCE HERO TITLE COLOR (ALL PAGES) */
+h1.display-4 {
     color: #ffffff !important;
     text-shadow: 0 4px 15px rgba(0,0,0,0.7);
 }
