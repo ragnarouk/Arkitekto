@@ -111,5 +111,7 @@ $theme-colors: map-merge(
 /* HERO TITLE FIX */
 #home-title-box h1.display-4 {
     color: #ffffff !important;
-    text-shadow: 0 4px 20px rgba(0,0,0,0.8);
+    letter-spacing: 4px;
+    font-weight: 400;
+    text-shadow: 0 4px 15px rgba(0,0,0,0.6);
 }
