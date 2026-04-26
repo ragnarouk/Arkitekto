@@ -7,3 +7,5 @@ permalink: /browse.html
 ---
 
 ## Featured Works
+
+This section highlights the notable works of Filipino National Artists in Architecture.
