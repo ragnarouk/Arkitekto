@@ -109,6 +109,7 @@ $theme-colors: map-merge(
 }
 
 /* HERO TITLE FIX */
-.title-box .text-white .display-4 {
+#home-title-box h1.display-4 {
     color: #ffffff !important;
+    text-shadow: 0 4px 20px rgba(0,0,0,0.8);
 }
