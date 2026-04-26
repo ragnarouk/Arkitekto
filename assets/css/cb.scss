@@ -115,3 +115,13 @@ $theme-colors: map-merge(
     font-weight: 400;
     text-shadow: 0 4px 15px rgba(0,0,0,0.6);
 }
+
+/* ABOUT PAGE HERO TITLE (JUMBOTRON) */
+.jumbotron h1.display-4 {
+    color: #ffffff !important;
+    text-shadow: 0 4px 15px rgba(0,0,0,0.7);
+}
+
+.jumbotron p {
+    color: rgba(255,255,255,0.9) !important;
+}
