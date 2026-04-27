@@ -3,15 +3,12 @@ layout: page
 title: Leandro Locsin
 permalink: /architects/locsin.html
 ---
-
-# Leandro Locsin
-
-Leandro Locsin was a Filipino National Artist for Architecture known for his monumental and sculptural use of concrete.
-
-## Notable Works
-- Cultural Center of the Philippines
-- Philippine International Convention Center (PICC)
-- Folk Arts Theater
-
-## Design Philosophy
-Locsin explored the concept of “floating volume,” creating structures that appear light despite using heavy materials like concrete.
+<div class="card">
+      <img src="{{ '/objects/locsin.jpg' | relative_url }}" alt="Leandro Locsin">
+      <div class="card-overlay">
+        <h3>Leandro Locsin</h3>
+        <p>Master of Concrete Expression</p>
+        <p>was a renowned Filipino architect and National Artist known as the "Poet of Concrete" and "Architect of Space" for his iconic, modernist designs. Born in Silay, Negros Occidental, he pioneered a distinct architectural style characterized by blending Western modernism with Eastern sensitivity and Filipino influences. Known for the "floating" effect, grounded flight, and strong roof forms massive.</p>
+        <h3>Design Philosophy</h3>
+        <p>Locsin explored the concept of “floating volume,” creating structures that appear light despite using heavy materials like concrete.</p>
+      </div>
