@@ -4,8 +4,6 @@ title: Juan Nakpil
 permalink: /architects/nakpil.html
 ---
 
-# Juan Nakpil
-
  <div class="featured-grid">
       <img src="{{ '/objects/nakpil.jpg' | relative_url }}" alt="Juan Nakpil">
       <div class="card-overlay">
