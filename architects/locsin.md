@@ -4,7 +4,7 @@ title: Leandro Locsin
 permalink: /architects/locsin.html
 ---
 <div class="card">
-      <img src="{{ '/objects/locsin.jpg' | relative_url }}" alt="Leandro Locsin">
+      <img src="{{ '/objects/locsin.jpg' | relative_url }}" alt="Leandro Locsin" width="214" height="236">
       <div class="card-overlay">
         <h3>Leandro Locsin</h3>
         <p>Master of Concrete Expression</p>
