@@ -4,7 +4,7 @@ title: Pablo Antonio
 permalink: /architects/antonio.html
 ---
  <div class="card">
-      <img src="{{ '/objects/antonio.jpg' | relative_url }}" alt="Pablo Antonio">
+      <img src="{{ '/objects/antonio.jpg' | relative_url }}" alt="Pablo Antonio" width="214" height="236">
       <div class="card-overlay">
         <h3>Pablo Antonio</h3>
         <p>Pablo Antinio was a pioneering Filipino architect recognized as a National Artist for Architecture in 1976. He revolutionized Philippine architecture Focusing on "form follows function," prioritizing simplicity, austerity, and stability. He also pioneered techniques for the Philippine climate, such as sunscreens, slanted windows for, and improved ventilation. </p>
