@@ -120,7 +120,7 @@ $theme-colors: map-merge(
     font-size: 18px;
     font-weight: 600;
     letter-spacing: 0.5px;
-    color: #ffffff;
+    color: rgba(255, 255, 255, 0.85);
 }
 
 .featured-page .card-overlay p {
