@@ -11,4 +11,3 @@ permalink: /architects/antonio.html
         <h3>Design Philosophy</h3>
         <p>Design with simplicity, functionality, and "austerity". He believed in clean lines, structural stability, and maximizing natural light and ventilation, famously prioritizing purpose over superficial, applied ornament</p>
       </div>
-    </div>
