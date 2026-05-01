@@ -26,9 +26,9 @@ We are a group of architecture students who created this curated digital gallery
 
 This database was created by: 
 * Brillantes, Ragnarouk Aliel A.
-* Bermal, Kentle P. Lachica
-* Prince William 
-* Tavares, Kirstein Cyrel
+* Bermal, Kentle P.
+* Lachica, Prince William J.
+* Tavares, Kirstein Cyrel C.
   
 in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
 
